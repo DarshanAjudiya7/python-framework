@@ -10,6 +10,7 @@ These apps are interactive, beginner-friendly, and perfect to understand real-wo
 
 ### 💱 Currency Converter  
 Convert popular world currencies into **Indian Rupees (INR)** instantly!  
+using this link : https://python-framework-calc-currency.streamlit.app/
 ✅ Choose your currency  
 ✅ Enter the amount  
 ✅ Get the INR value in seconds  
