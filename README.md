@@ -15,7 +15,7 @@ Convert popular world currencies into **Indian Rupees (INR)** instantly!
 ✅ Get the INR value in seconds  
 
 **📸 Screenshot:**  
-![Currency Converter](images/currency_converter.jpg)
+![Currency Converter](images/currency.jpg)
 
 ---
 
@@ -24,7 +24,7 @@ Ever wondered exactly **how old** you are in days, hours, or even minutes? ⏳
 Just enter your name, select your birth date, and boom 💥 — your exact age appears!  
 
 **📸 Screenshot:**  
-![Age Calculator with Date Picker](images/age_calculator_picker.jpg)
+![Age Calculator with Date Picker](images/age-date.jpg)
 
 ---
 
@@ -32,7 +32,7 @@ Just enter your name, select your birth date, and boom 💥 — your exact age a
 For speed lovers 🏎️ — type your birth date in `YYYY/MM/DD` format and instantly see your age details!  
 
 **📸 Screenshot:**  
-![Age Calculator Direct](images/age_calculator_direct.jpg)
+![Age Calculator Direct](images/age-calc.jpg)
 
 ---
 
