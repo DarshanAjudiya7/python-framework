@@ -11,6 +11,7 @@ These apps are interactive, beginner-friendly, and perfect to understand real-wo
 ### 💱 Currency Converter  
 Convert popular world currencies into **Indian Rupees (INR)** instantly!  
 using this link : https://python-framework-calc-currency.streamlit.app/
+
 ✅ Choose your currency  
 ✅ Enter the amount  
 ✅ Get the INR value in seconds  
@@ -31,6 +32,7 @@ Just enter your name, select your birth date, and boom 💥 — your exact age a
 
 ### 📅 Age Calculator (Direct Date Input)  
 For speed lovers 🏎️ — type your birth date in `YYYY/MM/DD` format and instantly see your age details!  
+using this link : https://python-framework-jpqxyvmbhkbgndjwjjwsqj.streamlit.app/
 
 **📸 Screenshot:**  
 ![Age Calculator Direct](images/age-calc.jpg)
