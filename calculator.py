@@ -3,10 +3,13 @@ from datetime import date
 
 st.title("Age alculator")
 st.subheader("Calculate your age with using this calculator")
-st.write("Enter your birth date...")
+
+name = st.text_input("Enter your name:")
+if name:
+    st.write(f"Hello, {name}!")
 
 date_selected = st.date_input(
-    "Pick a date :",
+    "Enter your birth date:",
     min_value=date(2001, 1, 1),
 )
 
